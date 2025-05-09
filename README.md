@@ -21,3 +21,14 @@ This is a simple web application built with SvelteKit and TypeScript that demons
    ```bash
    git clone https://github.com/ohangbon/cs4s763-web-app.git
    cd cs4s763-web-app
+
+# Using Bun
+bun install
+bun run dev
+
+# Or using npm
+npm install
+npm run dev
+
+#  open in browser
+http://localhost:5173
