@@ -11,8 +11,8 @@ This is a simple web application built with SvelteKit and TypeScript that demons
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/) (Recommended version: 16+)
-- [SvelteKit](https://kit.svelte.dev/) and [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/) (Recommended version: 16+) **OR**
+- [Bun](https://bun.sh/)
 
 ## Installation
 
@@ -20,5 +20,4 @@ This is a simple web application built with SvelteKit and TypeScript that demons
 
    ```bash
    git clone https://github.com/ohangbon/cs4s763-web-app.git
-
-    cd cs4s763-web-app
+   cd cs4s763-web-app
