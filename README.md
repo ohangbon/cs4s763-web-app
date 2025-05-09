@@ -19,4 +19,6 @@ This is a simple web application built with SvelteKit and TypeScript that demons
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ohangbon/cs4s763-web-app.git
+
+    cd cs4s763-web-app
